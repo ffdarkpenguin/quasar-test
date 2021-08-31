@@ -52,10 +52,10 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
   {
-    title: 'Usuario',
+    title: 'User',
     caption: 'User',
     icon: 'school',
-    link: '/usuario'
+    link: '/user'
   },
 ]
 
